@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am now a Research Assistant at Shenzhen Research Institute of Big Data, [The Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/en), supervised by Prof. [Haizhou Li](https://scholar.google.com.sg/citations?user=z8_x7C8AAAAJ). I got my master degree from [Intelligent Robotics Laboratory, Osaka University](https://www.irl.sys.es.osaka-u.ac.jp/), advised by Prof. [Hiroshi Ishiguro](https://scholar.google.com/citations?user=BNhvcyYAAAAJ). Before that, I received my bachelor degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by Prof.[Dahong Qian](https://scholar.google.com/citations?user=oymfXUIAAAAJ).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My previous research experience included Medical Image Analysis(Classification, Detection, Segmentation) and Real-time Voice Conversion.
+
+At present, my research interest lies in  **Text-to-speech and voice conversion in cross-lingual and emotional scenarios**.
+
+Feel free to email me for cooperations.
 
 
 # 🔥 News
