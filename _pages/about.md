@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a Research Assistant at Shenzhen Research Institute of Big Data, [The Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/en), supervised by Prof. [Haizhou Li](https://scholar.google.com.sg/citations?user=z8_x7C8AAAAJ). I got my master degree from [Intelligent Robotics Laboratory, Osaka University](https://www.irl.sys.es.osaka-u.ac.jp/), advised by Prof. [Hiroshi Ishiguro](https://scholar.google.com/citations?user=BNhvcyYAAAAJ). Before that, I received my bachelor degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by Prof.[Dahong Qian](https://scholar.google.com/citations?user=oymfXUIAAAAJ).
+I am now a Research Assistant at [Shenzhen Research Institute of Big Data](https://www.sribd.cn/), [The Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/en), supervised by Prof. [Haizhou Li](https://scholar.google.com.sg/citations?user=z8_x7C8AAAAJ). I got my master degree from [Intelligent Robotics Laboratory, Osaka University](https://www.irl.sys.es.osaka-u.ac.jp/), supervised by Prof. [Hiroshi Ishiguro](https://scholar.google.com/citations?user=BNhvcyYAAAAJ). Before that, I received my bachelor degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by Prof.[Dahong Qian](https://scholar.google.com/citations?user=oymfXUIAAAAJ).
 
 My previous research experience included Medical Image Analysis(Classification, Detection, Segmentation) and Real-time Voice Conversion.
 
